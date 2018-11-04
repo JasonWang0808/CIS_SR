@@ -1,7 +1,4 @@
----
-title: Super-Resolution Research
 
----
 
 
 ### Adapt Super-resolution into real production  
